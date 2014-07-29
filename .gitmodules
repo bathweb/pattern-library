@@ -1,0 +1,3 @@
+[submodule "converted-html"]
+	path = converted-html
+	url = git@github.bath.ac.uk:dsd28/UoB-Pattern-library.git
