@@ -1,4 +1,5 @@
-pattern-library
-===============
+# UoB - Pattern library
 
-A boilerplate pattern library for the University of Bath website
+The most advanced responsive front-end framework in the world.
+
+Auto commited via [Mixture](http://mixture.io)
